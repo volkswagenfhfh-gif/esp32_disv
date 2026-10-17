@@ -10,3 +10,8 @@ Planned features:
 - [ ] GPIO
 - [ ] NRF24
 - [ ] Games
+
+
+
+
+> this is BETA repository is NEW!
